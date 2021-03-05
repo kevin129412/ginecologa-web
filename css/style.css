@@ -1907,12 +1907,24 @@ a.blog-btn i {
 .client {
     overflow: hidden;
 }
+
+/* .img-client {
+    max-width: 100px;
+} */
+
+.ul-clients {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 .client ul li {
     float: left;;
     position: relative;
     width: 15%;
     padding: 20px;
 }
+
 .client.clients-border ul li:before {
     height: 100%;
     top: 0;
