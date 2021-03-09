@@ -94,7 +94,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
     width: 100%;
 }
 .accordion-1 .tab-wrapper.v1 .item.selected .tab-btn a {
-  background-color: #f05697;
+  background-color: #f29293;
   color: #fff;
 }
 .accordion-1 .tab-wrapper.v1 .item.selected .tab-btn a:hover {
@@ -116,7 +116,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
   transition: all 0.3s linear;
 }
 .accordion-1 .tab-wrapper.v1 .item .tab-btn a:hover {
-  color: #f05697;
+  color: #f29293;
 }
 .accordion-1 .tab-wrapper.v1 .item .tab-content {
   border: 1px solid #ddd;
@@ -142,10 +142,10 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 }
 .accordion-2 .tab-wrapper.v1 .item.selected .tab-btn a {
   background-color: transparent;
-    color: #f05697;
+    color:#f29293;
 }
 .accordion-2 .tab-wrapper.v1 .item.selected .tab-btn a:hover {
-      color: #f05697;
+      color: #f29293;
 }
 .accordion-2 .tab-wrapper.v1 .item.selected .tab-content {
   display: block;
@@ -163,7 +163,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
   transition: all 0.3s linear;
 }
 .accordion-2 .tab-wrapper.v1 .item .tab-btn a:hover {
-  color: #f05697;
+  color:#f29293;
 }
 .accordion-2 .tab-wrapper.v1 .item .tab-content {
   border: none;
@@ -227,10 +227,10 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 }
 .accordion-3 .tab-wrapper.v1 .item.selected .tab-btn a {
   background-color: transparent;
-  color: #f05697;
+  color:#f29293;
 }
 .accordion-3 .tab-wrapper.v1 .item.selected .tab-btn a:hover {
-  color: #f05697;
+  color:#f29293;
 }
 .accordion-3 .tab-wrapper.v1 .item.selected .tab-content {
   display: block;
@@ -248,7 +248,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
   transition: all 0.3s linear;
 }
 .accordion-3 .tab-wrapper.v1 .item .tab-btn a:hover {
-  color: #f05697;
+  color: #f29293;
 }
 .accordion-3 .tab-wrapper.v1 .item .tab-content {
   border:none;
@@ -277,10 +277,10 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 }
 .accordion-4 .tab-wrapper.v1 .item.selected .tab-btn a {
   background-color: transparent;
-  color: #f05697;
+  color: #f29293;
 }
 .accordion-4 .tab-wrapper.v1 .item.selected .tab-btn a:hover {
-  color: #f05697;
+  color:#f29293;
 }
 .accordion-4 .tab-wrapper.v1 .item.selected .tab-content {
   display: block;
@@ -298,7 +298,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
   transition: all 0.3s linear;
 }
 .accordion-4 .tab-wrapper.v1 .item .tab-btn a:hover {
-  color: #f05697;
+  color: #f29293;
 }
 .accordion-4 .tab-wrapper.v1 .item .tab-content {
   border: 1px solid #ddd;;
@@ -337,12 +337,12 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
     float: right;
 }
 .accordion-5 .tab-wrapper.v1 .item.selected .tab-btn a {
-  background-color: #f05697;
+  background-color: #f29293;
   color: #fff;
 }
 .accordion-5 .tab-wrapper.v1 .item.selected .tab-btn a:hover {
      color: #fff;
-     background-color: #f05697;
+     background-color: #f29293;
 }
 .accordion-5 .tab-wrapper.v1 .item.selected .tab-content {
   display: block;
@@ -361,7 +361,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 }
 .accordion-5 .tab-wrapper.v1 .item .tab-btn a:hover {
   color: #fff;
-  background-color: #f05697;
+  background-color: #f29293;
 }
 .accordion-5 .tab-wrapper.v1 .item .tab-content {
   border: none;
@@ -400,12 +400,12 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
     float: right;
 }
 .accordion-6 .tab-wrapper.v1 .item.selected .tab-btn a {
-  background-color: #f05697;
+  background-color: #f29293;
   color: #fff;
 }
 .accordion-6 .tab-wrapper.v1 .item.selected .tab-btn a:hover {
      color: #fff;
-     background-color: #f05697;
+     background-color: #f29293;
 }
 .accordion-6 .tab-wrapper.v1 .item.selected .tab-content {
   display: block;
@@ -425,7 +425,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 }
 .accordion-6 .tab-wrapper.v1 .item .tab-btn a:hover {
   color: #fff;
-  background-color: #f05697;
+  background-color:#f29293;
 }
 .accordion-6 .tab-wrapper.v1 .item .tab-content {
   border: none;
@@ -454,11 +454,11 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 }
 .accordion-7 .tab-wrapper.v1 .item.selected .tab-btn a {
   background-color: transparent;
-  color: #f05697;
+  color: #f29293;
   font-size: 1.71rem;
 }
 .accordion-7 .tab-wrapper.v1 .item.selected .tab-btn a:hover {
-  color: #f05697;
+  color: #f29293;
 }
 .accordion-7 .tab-wrapper.v1 .item.selected .tab-content {
   display: block;
@@ -476,7 +476,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
   transition: all 0.3s linear;
 }
 .accordion-7 .tab-wrapper.v1 .item .tab-btn a:hover {
-  color: #f05697;
+  color: #f29293;
 }
 .accordion-7 .tab-wrapper.v1 .item .tab-content {
   border:none;
@@ -565,7 +565,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 /*---- actionbox2 ----*/
 .actionbox2 {
     position: relative;
-    background-color: #f05697;
+    background-color:#f29293;
 }
 .actionbox2.actionbox-border {
     padding: 30px;
@@ -927,11 +927,11 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 }
 /*blockquote-3*/
 .blockquote.bg-gray {
-    border-left: 5px solid #f05697;
+    border-left: 5px solid #f29293;
 }
 .blockquote.right.bg-gray { 
     text-align: right; 
-    border-right: 5px solid #f05697;
+    border-right: 5px solid #f29293;
     border-left: 0; 
     padding: 20px 20px; 
 }
@@ -945,7 +945,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
     font-size: 7.142rem; 
     font-family: Georgia, serif;
     font-weight: bold; 
-    color: #f05697;
+    color: #f29293;
     position: absolute; 
     left: 14px;
     top: 30px;
@@ -1013,14 +1013,14 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
     color: #353535;
 }
 .blog-post .blog-detail .entry-title a:hover {
-    color: #f05697;
+    color:#f29293;
 }
 .blog-post .entry-meta ul li {
     display: inline-block;
     margin-right: 12px;
 }
 .blog-post .entry-meta ul li i {
-    color: #f05697;
+    color:#f29293;
     padding-right: 6px;
 }
 .blog-post .entry-meta ul li a {
@@ -1031,10 +1031,10 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 }
 .blog-post .entry-meta ul li a i {
     padding-right: 6px;
-    color: #f05697;
+    color: #f29293;
 }
 .blog-post .entry-meta ul li a:hover {
-    color: #f05697;
+    color:#f29293;
 }
 
 .blog-post .social strong {
@@ -1068,12 +1068,12 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 
 /*blog-post blockquote*/
 .blog-post.blockquote {
-    background: #f05697;
+    background: #f29293;
     border: 0px;
     padding: 36px 30px;
 }
 .blog-post.blockquote blockquote {
-    background: #f05697;
+    background: #f29293;
     border-left: 0px;
     color: #ffffff;
     padding: 0px;
@@ -1094,7 +1094,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 
 .blog-post.blockquote .blog-detail {
     border: 0px;
-    background: #f05697;
+    background: #f29293;
     padding: 0px;
 }
 .blog-post.blockquote .blog-detail .entry-title a {
@@ -1368,7 +1368,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
     font-weight: 500;
     border-radius: 3px;
     color: #fff;
-    background-color: #f05697;
+    background-color: #f29293;
     -webkit-transition: all 0.3s ease;
     -moz-transition: ll 0.3s ease;
     transition: all 0.3s ease;
@@ -1378,7 +1378,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 a.blog-btn {
     text-align: center;
     font-size: 1rem;
-    color: #f05697;
+    color: #f29293;
     display: block;
     padding-bottom: 12px;
     position: relative;
@@ -1396,7 +1396,7 @@ a.blog-btn i {
 
 .related-blog .border {
     position: absolute;
-    background: #f05697;
+    background: #f29293;
     height: 0px;
     bottom: 0;
     left: 0;
@@ -1579,12 +1579,12 @@ a.blog-btn i {
  }
  
  .timeline-blog .timeline li.entry-date-bottom a:hover {
-     background: #f05697;
+     background:#f29293;
      color: #fff;
  }
  
  .timeline-blog .timeline li:hover .timeline-post {
-     border-color: #f05697;
+     border-color: #f29293;
  }
  
  .timeline-blog .timeline li:hover .timeline-badge a {
@@ -1592,13 +1592,13 @@ a.blog-btn i {
  }
  
  .timeline-blog .timeline li:hover .timeline-badge {
-     background: #f05697;
-     border-color: #f05697;
+     background: #f29293;
+     border-color:#f29293;
  }
  
  .timeline-blog .timeline li:hover .timeline-post:before {
-     border-left-color: #f05697;
-     border-right-color: #f05697;
+     border-left-color:#f29293;
+     border-right-color:#f29293;
  }
  
  .timeline-blog .timeline-blog.timeline .entry-quote p {
@@ -1630,7 +1630,7 @@ a.blog-btn i {
       left: -66px;
  }
  .timeline-blog.timeline-sidebar .timeline > li > .timeline-badge:hover {
-      background: #f05697;
+      background: #f29293;
  }
  
  .timeline-blog.timeline-sidebar .timeline > li.timeline-inverted {
@@ -1711,7 +1711,7 @@ a.blog-btn i {
     font-weight: 500;
     border-radius: 3px;
     color: #fff;
-    background-color: #f05697;
+    background-color: #f29293;
     -webkit-transition: all 0.3s ease;
     -moz-transition: ll 0.3s ease;
     transition: all 0.3s ease;
@@ -1721,7 +1721,7 @@ a.blog-btn i {
 a.blog-btn {
     text-align: center;
     font-size: 1rem;
-    color: #f05697;
+    color: #f29293;
     display: block;
     padding-bottom: 12px;
     position: relative;
@@ -1739,7 +1739,7 @@ a.blog-btn i {
 
 .related-blog .border {
     position: absolute;
-    background: #f05697;
+    background: #f29293;
     height: 0px;
     bottom: 0;
     left: 0;
@@ -1888,7 +1888,7 @@ a.blog-btn i {
     color: #626262;
 }
 .comment-1 .comment-info a {
-    color: #f05697;
+    color: #f29293;
 }
 .comment-1 .comment-info a:hover {
     color: #363636;
@@ -1929,7 +1929,7 @@ a.blog-btn i {
     height: 100%;
     top: 0;
     left: -1px;
-    border-left: 1px dashed #eee;
+    /* border-left: 1px dashed #eee; */
 }
 .client.clients-border ul li:after,
 .client.clients-border ul li:before {
@@ -1942,7 +1942,7 @@ a.blog-btn i {
     top: auto;
     left: 0;
     bottom: -1px;
-    border-bottom: 1px dashed #eee;
+    /* border-bottom: 1px dashed #eee; */
 }
 /*---- clients colunm-4 ----*/
 .client.column-4 ul li { 
@@ -2189,13 +2189,13 @@ a.blog-btn i {
     color: #ffffff;
 }
 .counter.theme-color {
-    color: #f05697;
+    color: #f29293;
 }
 .counter.theme-color label {
-    color: #f05697;
+    color: #f29293;
 }
 .counter.theme-color span {
-    color: #f05697;
+    color: #f29293;
 }
 /*--------------------counter end---------------------*/
 
@@ -3049,7 +3049,7 @@ svg #airplain {
     display: block;
 }
 .footer.bg-black .footer-link ul li:hover a {
-    color: #f05697;
+    color: #f29293;
 }
 .footer .bg-black .address li a{
     color: #ccc;
@@ -3162,7 +3162,7 @@ svg #airplain {
   color: #fff;
 }
 .footer .tags li a:hover {
-    background: #f05697;
+    background: #f29293;
 }
 /*-------- footer-2 --------*/
 .footer.footer-2 p, .footer.footer-2 h5, .footer.footer-2 h4{
@@ -3180,7 +3180,7 @@ svg #airplain {
     display: block;
 }
 .footer.footer-2 .footer-link ul li:hover a{
-    color: #f05697;
+    color: #f29293;
 }
 .footer.footer-2 .footer-link ul {
     list-style: none;
@@ -3199,7 +3199,7 @@ footer.footer-2 .address li a{
     color: #898989;
 }
 footer.footer-2 .address li:hover a{
-    color: #f05697;
+    color: #f29293;
 }
 .footer.footer-2 .address li p{
     margin: 0px;
@@ -3227,7 +3227,7 @@ footer.footer-2 .social-icons li:hover a{
     padding-top: 10px;
 }
 .footer.footer-2 .footer-terms ul li:hover a{
-    color: #f05697;
+    color: #f29293;
 }
 .footer-2 .logo{
 	max-height: 35px;
@@ -3251,7 +3251,7 @@ footer.footer-2 .social-icons li:hover a{
     display: block;
 }
 .footer.footer-3 .footer-link ul li:hover a{
-    color: #f05697;
+    color: #f29293;
 }
 .footer.footer-3 .footer-link ul {
     list-style: none;
@@ -3272,7 +3272,7 @@ footer.footer-3 .address li a{
     color: #898989;
 }
 footer.footer-3 .address li:hover a{
-    color: #f05697;
+    color: #f29293;
 }
 .footer.footer-3 .address li p{
     margin: 0px;
@@ -3504,8 +3504,8 @@ footer.footer-3 .address li:hover a{
 .page-item.active .page-link {
     z-index: 1;
     color: #fff;
-    background-color: #f05697;
-    border-color: #f05697;
+    background-color: #f29293;
+    border-color: #f29293;
 }
 
 .table td,
@@ -3525,7 +3525,7 @@ footer.footer-3 .address li:hover a{
 }
 
 .table-1 thead {
-    background: #f05697;
+    background: #f29293;
     color: #fff;
     text-align: center;
 }
@@ -3545,13 +3545,13 @@ footer.footer-3 .address li:hover a{
 /*-- table-2 --*/
 .table-2.table thead {
     background: transparent;
-    color: #f05697;
+    color: #f29293;
     font-weight: 600;
     text-align: center;
 }
 
 .table-2.table thead tr th {
-    border: 1px solid #f05697 !important;
+    border: 1px solid #f29293 !important;
     text-align: center;
 }
 /*-- table-3 --*/
@@ -3574,7 +3574,7 @@ footer.footer-3 .address li:hover a{
     line-height: 40px;
     float: left;
     border-radius: 50%;
-    background: #f05697;
+    background: #f29293;
     text-align: center;
     color: #ffffff;
     margin-right: 10px;
@@ -3582,13 +3582,13 @@ footer.footer-3 .address li:hover a{
 
 .dropcaps.dropcap-border {
     background: transparent;
-    border: 2px solid #f05697;
-    color: #f05697;
+    border: 2px solid #f29293;
+    color: #f29293;
 }
 
 .dropcaps.gray {
     background: #f6f7f8;
-    color: #f05697;
+    color: #f29293;
 }
 
 .dropcaps.large {
@@ -3724,6 +3724,7 @@ html, button, input, select, textarea {
     font-family: 'Montserrat', Helvetica, sans-serif;
     color: #bbb;
 }
+
 .error-container h1 {
   text-align: center;
   margin: 30px 15px;
@@ -3851,7 +3852,7 @@ a.more-link {
 .feature-txt.theme-icon .feature-icon span,
 .feature-txt.theme-icon .feature-icon i {
     color: #ffffff;
-    background: #f05697;
+    background: #f29293;
     padding-left: 0px;
 }
 
@@ -3873,9 +3874,9 @@ a.more-link {
     padding-left: 0px;
 }
 .feature-txt.square:hover .feature-icon i, .feature-txt.square:hover .feature-icon span {
-    background: #f05697;
+    background: #f29293;
     color: #ffffff;
-    border-color: #f05697;
+    border-color: #f29293;
 }
 
 .feature-txt.text-center .feature-icon span,
@@ -3883,9 +3884,9 @@ a.more-link {
     padding-left: 0;
 }
 .feature-txt.round:hover .feature-icon i, .feature-txt.round:hover .feature-icon span {
-    background: #f05697;
+    background: #f29293;
     color: #ffffff;
-    border-color: #f05697;
+    border-color: #f29293;
 }
 
  /*left-icon*/
@@ -3972,7 +3973,7 @@ a.more-link {
  .featurebox i {
      width: 100%;
      font-size: 2.142rem;
-     color: #f05697;
+     color: #f29293;
      padding: 0 10px;
      -webkit-transition: all 0.3s ease-out 0s;
      -moz-transition: all 0.3s ease-out 0s;
@@ -4024,7 +4025,7 @@ a.more-link {
  
  .featurebox .feature-border {
      position: absolute;
-     background: #f05697;
+     background: #f29293;
      height: 0px;
      bottom: 0;
      left: 0;
@@ -4283,7 +4284,7 @@ a.more-link {
     top: 0;
     width: 20px;
     height: 20px;
-    border: 2px solid #f05697;
+    border: 2px solid #f29293;
     background-color: transparent;
     z-index: 0;
 }
@@ -4568,7 +4569,7 @@ textarea.form-control {
 .social li a.instagram:hover,
 .social li a.google:hover, 
 .social li a.linkedin:hover{
-    background: #f05697;
+    background: #f29293;
     color: #fff;
     border: none;
 }
@@ -7460,7 +7461,7 @@ ul.list-edit li:after {
     position: absolute;
     top: 0px;
     left: -35px;
-    color: #f05697;
+    color: #f29293;
     content: "\201C";
     font-family: Georgia, serif;
     font-size: 7.142rem;
@@ -7527,10 +7528,10 @@ ul.list-edit li:after {
 }
 .testimonials.text-white.clean .testimonials-info:before,
 .testimonials.text-white.clean .author-info span {
-    color: #ffffff;
+    color: #f29293;
 }
 .testimonials.text-white.clean .author-info:before {
-    background: #ffffff;
+    background: #f29293;
 }
 
 /* Left Position */

@@ -8,30 +8,27 @@ NOTE: This is color stylesheet of Color Scheme.
 
 */
 
-
 /*---- General ----*/
-
 
 /* selection */
 
 *::-moz-selection {
-    background: #f05697;
-    color: #fff;
-    text-shadow: none;
+  background: #f29293;
+  color: #fff;
+  text-shadow: none;
 }
 
 ::-moz-selection {
-    background: #f05697;
-    color: #fff;
-    text-shadow: none;
+  background: #f29293;
+  color: #fff;
+  text-shadow: none;
 }
 
 ::selection {
-    background: #f05697;
-    color: #fff;
-    text-shadow: none;
+  background: #f29293;
+  color: #fff;
+  text-shadow: none;
 }
-
 
 /*************************
 	 Background Color
@@ -78,13 +75,13 @@ mark,
 .portfolio-item a.popup:hover,
 .section-title.line .title:before,
 .section-title.bg span,
-.nav-pills>li.active>a,
-.nav-pills>li.active>a:focus,
-.nav-pills>li.active>a:hover,
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:focus,
+.nav-pills > li.active > a:hover,
 .list-group-item.active,
 .list-group-item.active:focus,
 .list-group-item.active:hover,
-.panel-primary>.panel-heading,
+.panel-primary > .panel-heading,
 .price.active .header,
 .membership-pricing-table table .plan-header-standard,
 .play-video,
@@ -125,7 +122,7 @@ mark,
 .pagination li a:hover,
 .pagination li span:focus,
 .pagination li span:hover {
-    background: #f05697;
+  background: #f29293;
 }
 
 .popup-video-image a i,
@@ -145,7 +142,7 @@ mark,
 .section-title span.theme-bg,
 .btn-primary:not(:disabled):not(.disabled).active:focus,
 .btn-primary:not(:disabled):not(.disabled):active:focus,
-.show>.btn-primary.dropdown-toggle:focus,
+.show > .btn-primary.dropdown-toggle:focus,
 .btn-primary.focus,
 .btn-primary:focus,
 .wishlist-page .table td.total a:hover,
@@ -154,9 +151,8 @@ mark,
 .service ul li a.active,
 .play-video-section.black-button .play-video:hover,
 .portfolio-item .portfolio-overlay a.tag {
-    background: #f05697;
+  background: #f29293;
 }
-
 
 /*************************
         Color
@@ -182,14 +178,14 @@ a:hover,
 .dropcap.dropcap-border,
 .dropcap.gray,
 .feature-box i,
-#two+label:before,
-#two+label:after,
+#two + label:before,
+#two + label:after,
 .remember-checkbox a,
 .cs-button.white,
 .no-title .portfolio-item .portfolio-overlay a:hover,
 .no-title .portfolio-item .portfolio-overlay a:hover,
-.list-group-item.active>.badge,
-.nav-pills>.active>a>.badge,
+.list-group-item.active > .badge,
+.nav-pills > .active > a > .badge,
 .btn-primary .badge,
 ul.list li:after,
 .blog-entry .entry-meta ul li a i,
@@ -230,7 +226,7 @@ section:focus .title-effect:nth-child(even),
 .blog-entry .entry-meta ul li i,
 ul.list.theme-color li i,
 .testimonials.text-white.clean .author-info {
-    color: #f05697;
+  color: #f29293;
 }
 
 .portfolio-item.simple-effect .portfolio-overlay a:hover,
@@ -245,18 +241,18 @@ ul.list.theme-color li i,
 .christmas-event .entry-meta ul li i,
 .christmas-event .entry-meta ul li a i,
 .christmas-event .entry-meta ul li a:hover,
-header.one-page.light .navbar-inverse .navbar-nav>.active>a,
-header.one-page.light .navbar-inverse .navbar-nav>.active>a:focus,
-header.one-page.light .navbar-inverse .navbar-nav>.active>a:hover,
-header.one-page.light .navbar-inverse .navbar-nav>li>a:hover,
+header.one-page.light .navbar-inverse .navbar-nav > .active > a,
+header.one-page.light .navbar-inverse .navbar-nav > .active > a:focus,
+header.one-page.light .navbar-inverse .navbar-nav > .active > a:hover,
+header.one-page.light .navbar-inverse .navbar-nav > li > a:hover,
 .architecture-portfolio .isotope-filters button.active,
 .architecture-portfolio .isotope-filters button:hover,
 .architecture-portfolio .isotope-filters button.active,
 .architecture-portfolio .isotope-filters button:hover,
-.one-page.dark-text .navbar-inverse .navbar-nav>.active>a,
-.one-page.dark-text .navbar-inverse .navbar-nav>.active>a:focus,
-.one-page.dark-text .navbar-inverse .navbar-nav>.active>a:hover,
-.one-page.dark-text .navbar-inverse .navbar-nav>li>a:hover,
+.one-page.dark-text .navbar-inverse .navbar-nav > .active > a,
+.one-page.dark-text .navbar-inverse .navbar-nav > .active > a:focus,
+.one-page.dark-text .navbar-inverse .navbar-nav > .active > a:hover,
+.one-page.dark-text .navbar-inverse .navbar-nav > li > a:hover,
 .page-title.light-overlay ul.page-breadcrumb li span,
 .page-title.light-overlay ul.page-breadcrumb li a:hover,
 .wishlist-page .table td.price.price-2,
@@ -284,9 +280,8 @@ header.one-page.light .navbar-inverse .navbar-nav>li>a:hover,
 .addresss-info.text-black i,
 ul.menu-sidebar li a:hover,
 ul.menu-sidebar li.active a {
-    color: #f05697;
+  color: #f29293;
 }
-
 
 /*************************
 	 Border Color
@@ -312,9 +307,9 @@ ul.menu-sidebar li.active a {
 .btn-primary:active.focus,
 .btn-primary:active:focus,
 .btn-primary:active:hover,
-.open>.dropdown-toggle.btn-primary.focus,
-.open>.dropdown-toggle.btn-primary:focus,
-.open>.dropdown-toggle.btn-primary:hover,
+.open > .dropdown-toggle.btn-primary.focus,
+.open > .dropdown-toggle.btn-primary:focus,
+.open > .dropdown-toggle.btn-primary:hover,
 .data-table .table-2 .table thead tr th,
 .dropcap.dropcap-border,
 .feature-text.round:hover .feature-icon i,
@@ -347,12 +342,12 @@ ul.menu-sidebar li.active a {
 .service-blog.left ul,
 .personal-typer-banner h2,
 .personal-typer-banner b {
-    border-color: #f05697;
+  border-color: #f29293;
 }
 
-.border-memu .navbar-inverse .navbar-nav>.active>a,
-.border-memu .navbar-inverse .navbar-nav>.active>a:focus,
-.border-memu .navbar-inverse .navbar-nav>.active>a:hover,
+.border-memu .navbar-inverse .navbar-nav > .active > a,
+.border-memu .navbar-inverse .navbar-nav > .active > a:focus,
+.border-memu .navbar-inverse .navbar-nav > .active > a:hover,
 .border-memu .navbar-inverse .navbar-nav a:hover,
 .agency-banner .slider-content h1,
 .login-box-left li.active a,
@@ -380,10 +375,10 @@ ul.menu-sidebar li.active a {
 .cs-button.cs-button-border.gray:focus,
 .btn-primary:not(:disabled):not(.disabled).active:focus,
 .btn-primary:not(:disabled):not(.disabled):active:focus,
-.show>.btn-primary.dropdown-toggle:focus,
+.show > .btn-primary.dropdown-toggle:focus,
 .btn-primary.focus,
 .btn-primary:focus,
-.tab.nav-bt .nav.nav-tabs > li> a.active,
+.tab.nav-bt .nav.nav-tabs > li > a.active,
 .tab.nav-bl .nav.nav-tabs > li > a.active,
 .tab.nav-br .nav.nav-tabs > li > a.active,
 .isotope-filters.dark-bg button.active,
@@ -399,109 +394,105 @@ ul.menu-sidebar li.active a {
 .spa-border:before,
 .team.team-list,
 .marketing-banner .slider-content {
-    border-color: #f05697;
+  border-color: #f29293;
 }
-
 
 /*border left border right*/
 
 .blog .timeline li:hover .timeline-panel:before {
-    border-left-color: #f05697;
-    border-right-color: #f05697;
+  border-left-color: #f29293;
+  border-right-color: #f29293;
 }
 
 ul.menu-sidebar li a:hover,
 ul.menu-sidebar li.active a {
-    border-left-color: #f05697;
+  border-left-color: #f29293;
 }
-
 
 /*************************
  important
 *************************/
 
 .rev-color {
-    color: #f05697 !important;
+  color: #f29293 !important;
 }
 
 .rev-button,
 .rev-btn,
 .badge-primary,
 .nav-pills .nav-link.active,
-.nav-pills .show>.nav-link,
+.nav-pills .show > .nav-link,
 .bg-primary {
-    background: #f05697 !important;
+  background: #f29293 !important;
 }
 
 .rev-button:hover,
 .rev-btn:hover {
-    background: #ffffff !important;
-    color: #323232 !important;
+  background: #ffffff !important;
+  color: #323232 !important;
 }
 
 .rev-bg {
-    background: #f05697 !important;
+  background: #f29293 !important;
 }
 
 .border-primary {
-    border-color: #f05697 !important;
+  border-color: #f29293 !important;
 }
 
 .progress-bar-new,
 .progress-bar {
-    background-color: #f05697;
+  background-color: #f29293;
 }
-
 
 /*---- dark color ----*/
 
 .btn-primary:not(:disabled):not(.disabled).active:focus,
 .btn-primary:not(:disabled):not(.disabled):active:focus,
-.show>.btn-primary.dropdown-toggle:focus,
+.show > .btn-primary.dropdown-toggle:focus,
 .btn-primary.focus,
 .btn-primary:focus {
-    box-shadow: 0 0 0 0.2rem rgba(132, 186, 63, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(132, 186, 63, 0.5);
 }
-
 
 /*---- Rgba Background Color ----*/
 
 .st-menu ul.menu li a:before {
-    background: rgba(132, 186, 63, 0.4);
+  background: rgba(132, 186, 63, 0.4);
 }
 
 .bg-overlay-theme-10:before {
-    background: rgba(132, 186, 63, 0.1);
+  background: rgba(132, 186, 63, 0.1);
 }
 
 .bg-overlay-theme-20:before {
-    background: rgba(132, 186, 63, 0.2);
+  background: rgba(132, 186, 63, 0.2);
 }
 
 .bg-overlay-theme-30:before {
-    background: rgba(132, 186, 63, 0.3);
+  background: rgba(132, 186, 63, 0.3);
 }
 
 .bg-overlay-theme-40:before {
-    background: rgba(132, 186, 63, 0.4);
+  background: rgba(132, 186, 63, 0.4);
 }
 
 .bg-overlay-theme-50:before {
-    background: rgba(132, 186, 63, 0.5);
+  background: rgba(132, 186, 63, 0.5);
 }
 
 .bg-overlay-theme-60:before {
-    background: rgba(132, 186, 63, 0.6);
+  background: rgba(132, 186, 63, 0.6);
 }
 
 .bg-overlay-theme-70:before {
-    background: rgba(132, 186, 63, 0.7);
+  background: rgba(132, 186, 63, 0.7);
 }
 
 .bg-overlay-theme-80:before {
-    background: rgba(132, 186, 63, 0.8);
+  background: rgba(132, 186, 63, 0.8);
 }
 
 .bg-overlay-theme-90:before {
-    background: rgba(132, 186, 63, 0.9);
+  background: rgba(132, 186, 63, 0.9);
 }
