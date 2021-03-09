@@ -1908,14 +1908,16 @@ a.blog-btn i {
     overflow: hidden;
 }
 
-/* .img-client {
-    max-width: 100px;
-} */
+  .img-client { 
+ max-width: 100px;
+
+}  
 
 .ul-clients {
     display: flex;
     align-items: center;
     justify-content: space-between;
+
 }
 
 .client ul li {
@@ -1929,7 +1931,7 @@ a.blog-btn i {
     height: 100%;
     top: 0;
     left: -1px;
-    /* border-left: 1px dashed #eee; */
+    border-left: 1px dashed #eee;
 }
 .client.clients-border ul li:after,
 .client.clients-border ul li:before {
@@ -1942,7 +1944,7 @@ a.blog-btn i {
     top: auto;
     left: 0;
     bottom: -1px;
-    /* border-bottom: 1px dashed #eee; */
+     border-bottom: 1px dashed #eee;
 }
 /*---- clients colunm-4 ----*/
 .client.column-4 ul li { 
@@ -5531,7 +5533,6 @@ textarea.form-control {
 	margin-bottom: 0px; 
 	position: relative; 
 }
-
 /*----Common heading Style-1,2,3 ----*/
 .section-heading.line .heading {
     padding-bottom: 10px;

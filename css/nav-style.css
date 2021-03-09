@@ -23,17 +23,22 @@ nav .nav-header {
   background: #fff;
 }
 
+.logo-custom {
+  position: absolute;
+  top: 1px;
+  width: 130px;
+}
+
 nav .brand {
   display: block;
   position: relative;
   width: 180px;
   padding: 0px 0px;
-  height: 100px;
 }
 
-nav .brand img {
+/* nav .brand img {
   width: 100%;
-}
+} */
 
 nav .menu li a {
   display: block;

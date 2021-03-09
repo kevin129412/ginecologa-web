@@ -28,6 +28,23 @@ contactForm.addEventListener('submit', (event) => {
   };
   // POST DE INcontactFormACION
 
-  contactForm.reset();
-  alert('datos enviados');
+  fetch(
+    'https://ginecologa-backend-dot-vimind-3526e.uc.r.appspot.com/contacto',
+    {
+      method: 'POST',
+      body: JSON.stringify(formValue),
+      headers: {
+        'Content-Type': 'application/json',
+      },
+    }
+  )
+    .then((resp) => resp.json())
+    .then((resp) => {
+      console.log(resp);
+      contactForm.reset();
+      alert('datos enviados');
+    })
+    .catch((error) => {
+      alert('error');
+    });
 });
