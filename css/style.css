@@ -7865,7 +7865,303 @@ ul.list-edit li:after {
     border-radius: 10px;
 }
 
+/* servicios */
+
+.consulta-container {
+    max-width: 500px;
+    margin: auto;
+}
+
+ .consulta-img{
+    display: flex;
+    justify-content: center;
+ 
+}
+
+.consulta-container-img{
+    margin-top: 200px;
+    height: 250px;
+    width: 330px;
+}
+
+
+.consulta-title{
+    text-align: center;
+
+    margin-top: 100px;   
+    border-bottom: 2px solid #f29293;
+
+
+}
+
+.consulta-text{
+    text-align: center;
+
+      
+}
+
+.consulta-text-list{
+    text-align:center;
+    margin: 20px;
+    padding: 5px;
+    
+}
+
+.consulta-text-list{
+    text-align:center;
+    margin: 20px;
+    padding: 5px;
+    
+}
+ 
+/* servicio 2 */
+
+.control-img{
+    display: flex;
+    justify-content: center;
+}
+
+.control-container-img{
+    margin-top: 200px;
+    height: 250px;
+    width: 330px;
+}
+
+
+.control-container{
+    max-width: 500px;
+    margin: auto;
+
+
+}
+
+.control-title{
+    text-align: center;
+    margin-top: 100px;   
+    border-bottom: 2px solid #f29293;
 
 
 
+}
 
+.control-text{
+    text-align: center;
+   
+      
+}
+
+.control-text-list{
+    text-align:center;
+
+}
+
+.control-cuadro{
+
+  background-color: #fcd1d1;
+    border: 1px solid #fcd1d1;
+    height: 170px;
+    width: 300px;
+    margin: auto;
+    color: black;
+    font-size: 12px;
+    margin-bottom: 10px;
+    margin-top: 40px;
+}
+
+.control-text{
+    text-align: center ,justify;
+    margin: 5px 40px;
+}
+
+.control-cuadro h3 {
+    font-size: 16px;
+    padding-bottom: 5px;
+
+}
+
+.title-end{
+    color: #f29293;
+}
+
+/* servicio 3 */
+
+.planificacion-container {
+    max-width: 500px;
+    margin: auto;
+}
+
+ .planificacion-img{
+    display: flex;
+    justify-content: center;
+ 
+}
+
+.planificacion-container-img{
+    margin-top: 200px;
+    height: 250px;
+    width: 330px;
+}
+
+
+.planificacion-title{
+    text-align: center;
+     margin-top: 100px;   
+    border-bottom: 2px solid #f29293;
+
+
+}
+
+.planificacion-text{
+    text-align: center;
+
+      
+}
+
+.planificacion-text-list{
+    text-align:center;
+    margin: 50px;
+    padding: 5px
+ 
+}
+
+/* servicio 4 */
+
+.urologia-container{
+    max-width: 500px;
+    margin: auto;
+}
+
+ .urologia-img{
+    display: flex;
+    justify-content: center;
+ 
+}
+
+.urologia-container-img{
+    margin-top: 200px;
+    height: 250px;
+    width: 330px;
+}
+
+
+.urologia-title{
+    text-align: center;
+     margin-top: 100px;   
+    border-bottom: 2px solid #f29293;
+
+
+}
+
+.urologia-text{
+    text-align: center;
+
+      
+}
+
+.urologia-text-list{
+    text-align:center;
+    margin: 50px;
+    padding: 5px
+}
+ 
+ /* servicio 5 */
+
+.colposcopia-container {
+    max-width: 500px;
+    margin: auto;
+}
+
+ .colposcopia-img{
+    display: flex;
+    justify-content: center;
+ 
+}
+
+.colposcopia-container-img{
+    margin-top: 200px;
+    height: 250px;
+    width: 330px;
+}
+
+
+.colposcopia-title{
+    text-align: center;
+
+    margin-top: 100px;   
+    border-bottom: 2px solid #f29293;
+
+
+}
+
+.colposcopia-text{
+    text-align: center;
+
+      
+}
+
+.colposcopia-text-list{
+    text-align:center;
+    margin: 50px;
+    padding: 5px;
+    
+}
+ 
+
+/* conoceme */
+
+
+.container-one{
+    max-width: 1000px;
+    margin: auto;
+  padding: 30px;
+  margin-top: 10px;
+ margin-left: 90px;
+
+}
+.conrtainer-conoceme{
+    display: flex;
+    justify-content: space-around   ;
+    align-items: center;
+}
+
+.conoceme-sub-title{
+   
+    text-align: start;
+     margin-top: 150px;   
+    border-bottom: 2px solid #f29293;
+    font-size: 20px;
+  }
+
+.conoceme-img{
+    
+    width: 320px;
+    height: 220px;
+    float: left;
+   margin: auto;
+   margin-top: 70px;
+   margin-right: 30px;
+    
+}
+
+.conoceme-title-end{
+    color: #f29293 ;
+    font-size: 15px;
+}
+
+
+.cononoceme-text{
+  text-align: center;
+  font-size: 15px;
+}
+
+
+
+.container-two{
+    width: 100%;
+    max-width: 1000px;
+   margin: auto;
+  padding: 30px;
+  margin-top: 10px;
+  margin-left: 90px;
+  
+} 

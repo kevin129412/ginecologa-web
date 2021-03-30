@@ -43,8 +43,5 @@ contactForm.addEventListener('submit', (event) => {
       console.log(resp);
       contactForm.reset();
       alert('datos enviados');
-    })
-    .catch((error) => {
-      alert('error');
     });
-});
+  
