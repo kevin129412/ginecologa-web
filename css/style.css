@@ -7908,9 +7908,10 @@ ul.list-edit li:after {
 }
 
 .consulta-text-list{
-    text-align:center;
-    margin: 20px;
+    text-align:start;
+    margin: 5px;
     padding: 5px;
+    margin-left: 30px;
     
 }
  
@@ -7969,7 +7970,7 @@ ul.list-edit li:after {
 }
 
 .control-text{
-    text-align: center ,justify;
+    text-align: start;
     margin: 5px 40px;
 }
 
@@ -8059,8 +8060,8 @@ ul.list-edit li:after {
 }
 
 .urologia-text-list{
-    text-align:center;
-    margin: 50px;
+    text-align:start;
+    margin: 50px
     padding: 5px
 }
  
@@ -8100,7 +8101,7 @@ ul.list-edit li:after {
 }
 
 .colposcopia-text-list{
-    text-align:center;
+    text-align:start;
     margin: 50px;
     padding: 5px;
     
@@ -8138,7 +8139,7 @@ ul.list-edit li:after {
     height: 220px;
     float: left;
    margin: auto;
-   margin-top: 70px;
+   margin-top: 40px;
    margin-right: 30px;
     
 }
@@ -8157,11 +8158,10 @@ ul.list-edit li:after {
 
 
 .container-two{
-    width: 100%;
-    max-width: 1000px;
-   margin: auto;
-  padding: 30px;
-  margin-top: 10px;
-  margin-left: 90px;
-  
+
+  display: grid;
+  grid-template-columns:1fr  1fr ;
+  margin:auto;
+  margin-top: 100px;
+  margin-left: 100px;
 } 
