@@ -7895,7 +7895,7 @@ ul.list-edit li:after {
 }
 
 .consulta-text{
-    text-align: start;
+    text-align: center;
 
       
 }
@@ -8054,15 +8054,15 @@ ul.list-edit li:after {
 }
 
 .urologia-text{
-    text-align: start;
+    text-align: center;
 
       
 }
 
 .urologia-text-list{
     text-align:start;
-    margin: 50px
-    padding: 5px
+    margin: 50px;
+    padding: 5px;
 }
  
  /* servicio 5 */
@@ -8095,7 +8095,7 @@ ul.list-edit li:after {
 }
 
 .colposcopia-text{
-    text-align: start;
+    text-align: center;
 
       
 }
@@ -8139,7 +8139,7 @@ ul.list-edit li:after {
     height: 220px;
     float: left;
    margin: auto;
-   margin-top: 30px;
+   margin-top: 40px;
    margin-right: 30px;
     
 }
