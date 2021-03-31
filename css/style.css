@@ -8013,13 +8013,13 @@ ul.list-edit li:after {
 }
 
 .planificacion-text{
-    text-align: center;
+    text-align: start;
 
       
 }
 
 .planificacion-text-list{
-    text-align:center;
+    text-align:start;
     margin: 50px;
     padding: 5px
  
