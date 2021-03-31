@@ -7895,7 +7895,7 @@ ul.list-edit li:after {
 }
 
 .consulta-text{
-    text-align: center;
+    text-align: start;
 
       
 }
@@ -8054,7 +8054,7 @@ ul.list-edit li:after {
 }
 
 .urologia-text{
-    text-align: center;
+    text-align: start;
 
       
 }
@@ -8095,7 +8095,7 @@ ul.list-edit li:after {
 }
 
 .colposcopia-text{
-    text-align: center;
+    text-align: start;
 
       
 }
@@ -8115,8 +8115,8 @@ ul.list-edit li:after {
     max-width: 1000px;
     margin: auto;
   padding: 30px;
-  margin-top: 10px;
- margin-left: 90px;
+  /* margin-top: 10px;
+ margin-left: 90px; */
 
 }
 .conrtainer-conoceme{
@@ -8139,7 +8139,7 @@ ul.list-edit li:after {
     height: 220px;
     float: left;
    margin: auto;
-   margin-top: 40px;
+   margin-top: 30px;
    margin-right: 30px;
     
 }
@@ -8158,10 +8158,21 @@ ul.list-edit li:after {
 
 
 .container-two{
+   display: grid;
+   grid-template-columns: 1fr 1fr  1fr;
+   margin-top: 20px;
+   margin-left: 300px;
+}
 
-  display: grid;
-  grid-template-columns:1fr  1fr ;
-  margin:auto;
-  margin-top: 100px;
-  margin-left: 100px;
-} 
+@media ( max-width: 500px){
+    .container-two{
+       display: block;
+       margin: auto;
+       text-align: start;
+       margin-left: 20px;  
+    }
+    .ultimo-parrafo{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+}
