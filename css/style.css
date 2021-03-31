@@ -8115,10 +8115,9 @@ ul.list-edit li:after {
     max-width: 1000px;
     margin: auto;
   padding: 30px;
-  /* margin-top: 10px;
- margin-left: 90px; */
 
 }
+
 .conrtainer-conoceme{
     display: flex;
     justify-content: space-around   ;
@@ -8159,7 +8158,7 @@ ul.list-edit li:after {
 
 .container-two{
    display: grid;
-   grid-template-columns: 1fr 1fr  1fr;
+   grid-template-columns: 1fr 1fr;
    margin-top: 20px;
    margin-left: 300px;
 }
